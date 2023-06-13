@@ -23,8 +23,8 @@ function encryptImage(filePath, encryptionKey) {
   });
 }
 
-
-const imagePath ='F:\\ImageForEncryptionTesting\\test.jpg';
+//F:\\ImageForEncryptionTesting\\test.jpg//
+const imagePath ='Your file path here';
 const encryptionKey = 0xAB; // Example encryption key
 
 // Encrypt the image
